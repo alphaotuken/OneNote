@@ -19,7 +19,7 @@ class Sidebar extends Component {
               target="_blank"
               rel="noreferrer"
             >
-              Ram
+              Talo
             </a>
           </p>
         </div>
