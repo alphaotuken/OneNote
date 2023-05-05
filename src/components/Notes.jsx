@@ -1,4 +1,3 @@
-#
 import React, { Component } from 'react'
 import { Edit, Trash2 } from 'react-feather'
 
